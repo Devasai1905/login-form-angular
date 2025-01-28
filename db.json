@@ -1,0 +1,152 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "content": "Welocome "
+    },
+    {
+      "id": "629e",
+      "firstName": "",
+      "lastName": "sai",
+      "email": "d@gamil.com",
+      "mobile": 123456789,
+      "salary": 50000
+    },
+    {
+      "id": "34d4",
+      "firstName": "",
+      "lastName": "test",
+      "email": "test@gmail",
+      "mobile": 123456789,
+      "salary": 60000
+    },
+    {
+      "id": "ec67",
+      "firstName": "ff",
+      "lastName": "errr",
+      "email": "d@gamil.com",
+      "mobile": 23456,
+      "salary": 50000
+    },
+    {
+      "id": "95f1",
+      "firstName": "deva",
+      "lastName": "sai",
+      "email": "t@gmail.com",
+      "mobile": 987654321,
+      "salary": 50000
+    },
+    {
+      "id": "89e0",
+      "firstName": "d",
+      "lastName": "d",
+      "email": "d@gamil",
+      "mobile": 23456,
+      "salary": 589
+    },
+    {
+      "id": "3920",
+      "firstName": "ram",
+      "lastName": "ram",
+      "email": "ram@gmail.com",
+      "mobile": 1906,
+      "salary": 60000
+    },
+    {
+      "id": "a9d1",
+      "firstName": "r",
+      "lastName": "r",
+      "email": "r",
+      "mobile": 9876543,
+      "salary": 67899
+    },
+    {
+      "id": "33d8",
+      "firstName": "devil",
+      "lastName": "devilvvv",
+      "email": "devil@gmail.com",
+      "mobile": 12345678,
+      "salary": 7657
+    },
+    {
+      "id": "5e6e",
+      "firstName": "deva",
+      "lastName": "sai",
+      "email": "deva@",
+      "mobile": 23456,
+      "salary": 589
+    },
+    {
+      "id": "af5e",
+      "firstName": "e",
+      "lastName": "d",
+      "email": "deva@gmail.com",
+      "mobile": 9000000000,
+      "salary": 500000
+    }
+  ],
+  "sinupUsers": [
+    {
+      "id": "1",
+      "postId": 1,
+      "content": "This is A comment"
+    },
+    {
+      "id": "643e",
+      "fullname": "ram",
+      "email": "ram@gmail.com",
+      "password": "12345",
+      "mobile": 9133594609
+    },
+    {
+      "id": "47c4",
+      "fullname": "devasai",
+      "email": "d@gmail.com",
+      "password": "123456",
+      "mobile": 9133594609
+    },
+    {
+      "id": "4e3c",
+      "fullname": "q",
+      "email": "ram@gmail.com",
+      "password": "12345",
+      "mobile": ""
+    },
+    {
+      "id": "b1ed",
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": ""
+    },
+    {
+      "id": "6a42",
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": ""
+    },
+    {
+      "id": "1f67",
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": ""
+    },
+    {
+      "id": "e34d",
+      "fullname": "pardhu",
+      "email": "pardhu@gmail.com",
+      "password": "12345",
+      "mobile": 123456789
+    },
+    {
+      "id": "853f",
+      "fullname": "Devasai",
+      "email": "sri@gamil.com",
+      "password": "12345",
+      "mobile": 1234567789
+    }
+  ]
+}
